@@ -1,0 +1,2 @@
+On initialising a git repository all the files your current working
+directory will be added under a master branch. No commits will be created.
