@@ -1,0 +1,12 @@
+All these years I have used clearcase for version control and beyond compare
+for all the diff I ever wanted to check. Beyond compare is a well made tool, differences are highlighted. 
+
+Diff from command line is not all that user friendly but anyday better
+than checking manually.
+
+Choosing when to commit.
+Choosing when to commit is better over saving versions automatically. Because the version tree may grow to an enormous size and may make the diff between versions very tedious.
+Because versions created automatically can turn out to be useless.
+I was wondering if there was a way to save the work automatically without creating a version. Like how it works in wordpress?
+
+
